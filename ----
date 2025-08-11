@@ -2,7 +2,7 @@ hey friends, ever felt lost scrolling through endless stock news trying to figur
 so i built a little project, a 'stock sentiment analyzer' that reads headlines and tells you if the vibes are positive, negative, or neutral. 
 no fancy AI stuff, just smart and simple python magic that saves time and stress.
 wanna see how it works? 
-i put it all in the README.md file do go thruogh that 
+i put it all in the README.md file do go through it- https://github.com/muskanalis/Stock_sentiment_analyser/edit/main/README.md
 this project taught me a lot about coding, natural language stuff, and why sometimes simple is best. plus, it’s super fun to play with your own stock news and see what the market’s really feeling.
 
 if you’re into stocks, ai, or just want a quick way to catch market vibes, check it out and let me know what you think :)
